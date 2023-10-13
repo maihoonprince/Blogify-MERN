@@ -1,0 +1,7 @@
+To Install in Terminal:
+                         npm init.
+                         npm i express.
+                         npm i ejs.
+                         npm i nodemon -D.
+
+To RUN code (in terminal): npm run dev
